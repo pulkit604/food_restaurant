@@ -20297,7 +20297,6 @@ div[class^="rd-mailform-validate"].error {
               <div class="cell-md-3 cell-md-preffix-1 text-md-left copyright">
                 <p>© <span id="copyright-year">2019</span></p>
                 <p>all rights reserved
-                  <!-- {%FOOTER_LINK}-->
                 </p>
               </div>
             </div>
